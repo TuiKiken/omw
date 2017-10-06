@@ -29,10 +29,6 @@ body {
     display: none;
 }
 
-.gm-style-mtc {
-    padding-top: 30px;
-}
-
 .maps .center {
     background: url("../img/target.png") no-repeat center;
     cursor: pointer;
